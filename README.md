@@ -6,7 +6,7 @@ Cloud Engineer Jr at Boa Vista SCPC. I solve problems and optimize processes usi
 ### Social Networks
 
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&color=0D1117&style=flat-square)](https://twitter.com/afonsolgs97)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=2867B2&color=0D1117&style=flat-square)](https://www.linkedin.com/in/alan-santos-31b39878/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=2867B2&color=0D1117&style=flat-square)](https://www.linkedin.com/in/afonsosantosdev/)
 
 ### Technologies and Frameworks
 
